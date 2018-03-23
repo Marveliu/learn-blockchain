@@ -1,0 +1,1 @@
+curl -X POST --data '{"jsonrpc":"2.0","method":"eth_compileSolidity","params":["contract test { function multiply(uint a) returns(uint d) {   return a * 7;   } }"],"id":1}' localhost:8545 -H "Content-type:application/json"

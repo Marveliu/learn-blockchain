@@ -1,0 +1,1 @@
+curl --data '{"jsonrpc":"2.0","method":"eth_getBalance", "params": ["0xbd2d69e3e68e1ab3944a865b3e566ca5c48740da", "latest"], "id":2}' localhost:8545 -H "Content-type:application/json"
