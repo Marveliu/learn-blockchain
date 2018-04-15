@@ -23,10 +23,10 @@
 1. [自动连上公链，私链配置无效](https://github.com/cryptape/ethereum-bootstrap/issues/13)
 2. [solc 安装](https://ethereum.stackexchange.com/questions/9513/how-do-i-install-solc-on-mac-osx-error-encountered-error-no-formulae-found-in)
 
-## 项目参考
+## repository
 
 1. boostrap: [ethereum bootstrap](https://github.com/cryptape/ethereum-bootstrap)
-1. block-chain-demo: [block-chain-demo](https://github.com/simonsjy/block-chain-demo)
+2. block-chain-demo: [block-chain-demo](https://github.com/simonsjy/block-chain-demo)
 
 # Lisence
 
