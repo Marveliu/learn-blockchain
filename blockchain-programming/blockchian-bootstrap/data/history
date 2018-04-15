@@ -1,0 +1,82 @@
+web3.eth.getBalance(web3.eth.accounts[0])
+miner.start()
+miner.stop()
+eth.accounts
+eth.getBalance(eth.accounts[0])
+miner.start(1)
+miner.stop()
+ls
+eth.accout
+eth.accounts
+miner.start()
+miner.stop()
+eth.getCompilers()
+var source = 'contract Multiply7 {event Print(uint);function multiply(uint input) returns (uint) {Print(input * 7);return input * 7;}}'
+source
+var compiled = web3.eth.compile.solidity(source);
+web3.eth.getAccounts
+web3.eth.getAccounts()
+web3.eth.getAccounts
+miner.start(1)
+minder.stop()
+miner.stop()
+eth.getBalance()
+eth.getAccounts
+eth.getAccounts()
+net.peerCount
+eth
+metacoin
+admin
+admin.getContractInfo()
+var meta = MetaCoin.deployed();
+clear
+clean
+clc
+personal
+web
+web3
+miner.start(1)
+net
+net.getVersion()
+getVersion
+net.version
+miner.start(1)
+eth.getBalances(eth.account[0])
+eth.getBalances(eth.accounts[0])
+eth.getBalance(eth.accounts[0])
+cho "var tokenCompiled=`solc --optimize --combined-json abi,bin,interface contracts/Token.sol`" > token.js
+echo "var tokenCompiled=`solc --optimize --combined-json abi,bin,interface contracts/Token.sol`" > token.js
+loadScript("token.js")
+tokenCompiled.contracts["contracts/Token.sol:Token"].bin
+okenCompiled.contracts["contracts/Token.sol:Token"].abi
+tokenCompiled.contracts["contracts/Token.sol:Token"].abi
+var tokenContractsBin = "0x" + tokenCompiled.contracts["contracts/Token.sol:Token"].bin;
+tokenContractsBin
+var tokenContractsAbi = tokenCompiled.contracts["contracts/Token.sol:Token"].abi;
+tokenContractsAbi
+var contract = web3.eth.contract(JSON.parse(tokenContractsAbi));
+contract
+var initializer = {from: web3.eth.accounts[0], data: tokenContractsBin, gas: 300000};
+var token = contract.new(initializer);
+miner.start(1)
+miner.stop()
+token.address
+eth.getBalance(eth.accounts[0])
+token.issue.sendTransaction(eth.accounts[0],100,{from:eth.accounts[9]})
+token.issue.sendTransaction(web3.eth.accounts[0], 100, {from: web3.eth.accounts[0]});
+token.getBalance(eth.getaccounts[0])
+token.getBalance(eth.accounts[0])
+token.getBalance(web3.eth.accounts[0])
+miner.start(1)
+miner.stop()
+token.getBalance(web3.eth.accounts[0])
+token.transfer.sendTransaction(web3.eth.accounts[1], 30, {from: web3.eth.accounts[0]})
+I1221 11:53:31.852541   11155 xeth.go:1055] Tx(0x1d209cef921dea5592d8604ac0da680348987b131235943e372f8df35fd43d1b) to: 0x37dc85ae239ec39556ae7cc35a129698152afe3c
+"0x1d209cef921dea5592d8604ac0da680348987b131235943e372f8df35fd43d1b"
+token.issue.sendTransaction(web3.eth.accounts[0], 100, {from: web3.eth.accounts[0]});
+miner.start(1)
+miner.stop()
+miner.start(1)
+miner.stop()
+token.getBalance(web3.eth.accounts[1])
+token.getBalance(web3.eth.accounts[0])
