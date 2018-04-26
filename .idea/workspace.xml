@@ -2,105 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c29c03a2-d6dd-4465-a0f7-258e132385c5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/learn-blockchain.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-book/blockchain-book.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-book/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchain-demo/.idea/artifacts/blockchain_ear_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchain-demo/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchain-demo/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchain-demo/.idea/dictionaries/Marveliu.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchain-demo/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchain-demo/.idea/libraries/Maven__com_google_code_gson_gson_2_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchain-demo/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchain-demo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchain-demo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchain-demo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchain-demo/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchain-demo/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchain-demo/blockchain-demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchain-demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchain-demo/src/com/simon/blockchain/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchain-demo/src/com/simon/blockchain/element/Block.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchain-demo/src/com/simon/blockchain/element/Wallet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchain-demo/src/com/simon/blockchain/transaction/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchain-demo/src/com/simon/blockchain/transaction/TransactionInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchain-demo/src/com/simon/blockchain/transaction/TransactionOutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchain-demo/src/com/simon/blockchain/util/CryptologyUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchain-demo/src/com/simon/blockchain/util/MerkleTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchain-demo/src/com/simon/blockchain/util/TreeUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchain-demo/target/classes/com/simon/blockchain/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchain-demo/target/classes/com/simon/blockchain/element/Block.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchain-demo/target/classes/com/simon/blockchain/element/Wallet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchain-demo/target/classes/com/simon/blockchain/transaction/Transaction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchain-demo/target/classes/com/simon/blockchain/transaction/TransactionInput.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchain-demo/target/classes/com/simon/blockchain/transaction/TransactionOutput.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchain-demo/target/classes/com/simon/blockchain/util/CryptologyUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchain-demo/target/classes/com/simon/blockchain/util/MerkleTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchain-demo/target/classes/com/simon/blockchain/util/TreeUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchain-programming.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/bin/data/geth/LOCK" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/bin/data/geth/chaindata/000002.ldb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/bin/data/geth/chaindata/CURRENT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/bin/data/geth/chaindata/LOCK" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/bin/data/geth/chaindata/LOG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/bin/data/geth/chaindata/MANIFEST-000004" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/bin/data/geth/nodekey" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/bin/data/geth/transactions.rlp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/blockchian-bootstrap.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/data/geth/LOCK" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/data/geth/chaindata/000036.ldb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/data/geth/chaindata/000037.ldb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/data/geth/chaindata/000040.ldb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/data/geth/chaindata/000043.ldb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/data/geth/chaindata/CURRENT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/data/geth/chaindata/LOCK" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/data/geth/chaindata/LOG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/data/geth/chaindata/MANIFEST-000045" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/data/geth/lightchaindata/CURRENT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/data/geth/lightchaindata/LOCK" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/data/geth/lightchaindata/LOG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/data/geth/lightchaindata/MANIFEST-000000" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/data/geth/nodekey" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/data/geth/transactions.rlp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/data/history" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/data/keystore/UTC--2018-03-20T14-15-09.165212779Z--bd2d69e3e68e1ab3944a865b3e566ca5c48740da" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/data/keystore/UTC--2018-03-20T14-15-10.502503291Z--81063419f13cab5ac090cd8329d8fff9feead4a0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/data/keystore/UTC--2018-03-20T14-15-11.774650282Z--ca9f427df31a1f5862968fad1fe98c0a9ee068c4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/data/keystore/UTC--2018-03-20T14-15-13.089045863Z--9da26fc2e1d6ad9fdd46138906b0104ae68a65d8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/data/keystore/UTC--2018-03-20T14-15-14.279436534Z--3ae88fe370c39384fc16da2c9e768cf5d2495b48" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockchain-programming/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap/bin/curl-eth_coinbase.sh" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/bin/curl-eth_coinbase.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap/bin/curl-eth_compileSolidity.sh" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/bin/curl-eth_compileSolidity.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap/bin/curl-eth_getBalance.1.sh" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/bin/curl-eth_getBalance.1.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap/bin/curl-eth_getBalance.sh" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/bin/curl-eth_getBalance.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap/bin/curl-eth_getCompilers.sh" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/bin/curl-eth_getCompilers.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap/bin/import_keys.sh" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/bin/import_keys.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap/bin/private_blockchain.sh" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/bin/private_blockchain.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap/bin/private_blockchain_init.sh" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/bin/private_blockchain_init.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap/bin/test-jsonprc.sh" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/bin/test-jsonprc.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap/contracts/Token.sol" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/contracts/Token.sol" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap/genesis.json" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/genesis.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap/import_keys.sh" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/import_keys.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap/password" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/password" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap/private_keys/3ae88fe370c39384fc16da2c9e768cf5d2495b48.key" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/private_keys/3ae88fe370c39384fc16da2c9e768cf5d2495b48.key" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap/private_keys/81063419f13cab5ac090cd8329d8fff9feead4a0.key" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/private_keys/81063419f13cab5ac090cd8329d8fff9feead4a0.key" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap/private_keys/9da26fc2e1d6ad9fdd46138906b0104ae68a65d8.key" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/private_keys/9da26fc2e1d6ad9fdd46138906b0104ae68a65d8.key" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap/private_keys/bd2d69e3e68e1ab3944a865b3e566ca5c48740da.key" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/private_keys/bd2d69e3e68e1ab3944a865b3e566ca5c48740da.key" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap/private_keys/ca9f427df31a1f5862968fad1fe98c0a9ee068c4.key" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/private_keys/ca9f427df31a1f5862968fad1fe98c0a9ee068c4.key" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap/private_keys/import.sh" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/private_keys/import.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap/screenshots/private-started.png" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/screenshots/private-started.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap/token.js" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain-programming/blockchian-bootstrap/token.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockchain-book/Data-layer/.datastruct_images/0f8f4912.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockchain-book/Data-layer/.datastruct_images/db9669ce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockchain-book/Data-layer/datastruct.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockchain-book/Data-layer/encryption.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockchain-book/Data-layer/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockchain-book/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/blockchain-programming/target/" />
@@ -114,15 +24,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="390">
-                <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+    <leaf>
+      <file leaf-file-name="datastruct.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blockchain-book/Data-layer/datastruct.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SECOND">
+              <first_editor relative-caret-position="105">
+                <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
               </first_editor>
-              <second_editor />
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
             </state>
           </provider>
         </entry>
@@ -141,6 +53,10 @@
         <option value="$PROJECT_DIR$/blockchain-book/pom.xml" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/blockchain-book/readme.md" />
+        <option value="$PROJECT_DIR$/blockchain-book/Data-layer/datastruct.md" />
+        <option value="$PROJECT_DIR$/blockchain-book/Data-layer/encryption.md" />
+        <option value="$PROJECT_DIR$/blockchain-book/Data-layer/readme.md" />
       </list>
     </option>
   </component>
@@ -177,7 +93,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,10 +100,27 @@
               <item name="learn-blockchain" type="b2602c69:ProjectViewProjectNode" />
               <item name="learn-blockchain" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="learn-blockchain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-blockchain" type="462c0819:PsiDirectoryNode" />
+              <item name="blockchain-book" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learn-blockchain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-blockchain" type="462c0819:PsiDirectoryNode" />
+              <item name="blockchain-book" type="462c0819:PsiDirectoryNode" />
+              <item name="Data-layer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learn-blockchain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-blockchain" type="462c0819:PsiDirectoryNode" />
+              <item name="blockchain-programming" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -202,7 +134,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.JRebelSettingsComponent" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -249,16 +181,21 @@
       <option name="presentableId" value="Default" />
       <updated>1523779501075</updated>
       <workItem from="1523779505861" duration="2231000" />
-      <workItem from="1523781892313" duration="320000" />
+      <workItem from="1523781892313" duration="1875000" />
+      <workItem from="1523877872398" duration="3096000" />
+      <workItem from="1523928034524" duration="2299000" />
+      <workItem from="1524272338937" duration="356000" />
+      <workItem from="1524274822001" duration="3642000" />
+      <workItem from="1524289964414" duration="595000" />
+      <workItem from="1524404642795" duration="1405000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2551000" />
+    <option name="totallyTimeSpent" value="15499000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="742" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -270,9 +207,9 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32852563" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20436187" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26817447" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -287,6 +224,34 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info id="JRebel" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25605816" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32852563" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" order="11" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32956383" />
+      <window_info anchor="bottom" id="JRebel Console" order="12" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -295,23 +260,62 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+    <entry file="file://$PROJECT_DIR$/blockchain-book/Data-layer/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <first_editor relative-caret-position="315">
+            <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
           </first_editor>
-          <second_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blockchain-programming/blockchain-demo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+    <entry file="file://$PROJECT_DIR$/blockchain-book/Data-layer/datastruct.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="450">
+            <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blockchain-book/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blockchain-book/Data-layer/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -341,12 +345,100 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="390">
-            <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blockchain-programming/blockchain-demo/src/com/simon/blockchain/element/Block.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-431">
+          <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blockchain-programming/blockchain-demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blockchain-programming/blockchain-demo/src/com/simon/blockchain/util/MerkleTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-371" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blockchain-programming/blockchain-demo/src/com/simon/blockchain/util/TreeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blockchain-programming/blockchain-demo/src/com/simon/blockchain/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blockchain-programming/blockchain-demo/src/com/simon/blockchain/util/CryptologyUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blockchain-book/Data-layer/encryption.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="525">
+            <caret line="35" column="62" lean-forward="true" selection-start-line="35" selection-start-column="62" selection-end-line="35" selection-end-column="62" />
           </first_editor>
-          <second_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blockchain-book/Data-layer/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="285">
+            <caret line="21" column="43" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="43" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blockchain-book/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blockchain-book/Data-layer/datastruct.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
         </state>
       </provider>
     </entry>
